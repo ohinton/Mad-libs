@@ -4,8 +4,7 @@
 
 ## Project Guidelines
 
-* Make a form letter where the user inputs their name, and they get back a letter addressed to them. Feel free to use lorum ipsum for the text of the letter. Use Bootstrap and your knowledge of CSS to make the letter look like a letter.
-* Create a page that asks the user to type something into a field, and when they submit the form, have the page say it back to them in all uppercase.
+A mad lib project working with forms utilizing jQuery and JavaScript.  
 
 ### License
 
